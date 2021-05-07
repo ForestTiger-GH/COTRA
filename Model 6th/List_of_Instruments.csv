@@ -1,4 +1,4 @@
-﻿Index;Type;Ticker;Yf_ticker;Cot_type;Cot_ticker
+﻿Index;Type;Ticker;Yh_ticker;Cot_type;Cot_ticker
 1;Agro;Coffee;KC=F;Commodities;COFFEE C - ICE FUTURES U.S.
 2;Agro;Corn;ZC=F;Commodities;CORN - CHICAGO BOARD OF TRADE
 3;Agro;Soybeans;ZS=F;Commodities;SOYBEANS - CHICAGO BOARD OF TRADE
